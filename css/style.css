@@ -1,0 +1,770 @@
+@media (max-width: 1600px) {
+  body {
+    background-color: #6da03a;
+  }
+  .btntwotwo {
+    width: 250px;
+    height: 100px;
+    background-color: #ffffff;
+  }
+
+  .ddimg {
+    position: absolute;
+    top: 80px;
+  }
+
+  .stronepass {
+    position: absolute;
+    width: 300px;
+    top: 20px;
+    background-color: #ffffff;
+    height: 50px;
+    left: 600px;
+    border-radius: 20px;
+  }
+  .formclass {
+    display: none;
+    position: absolute;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 950px;
+    background-color: #ffffff;
+    color: #6da03a;
+    width: 550px;
+    height: 650px;
+  }
+  .formclass1 {
+    position: relative;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 950px;
+    background-color: #ffffff;
+    color: #6da03a;
+    width: 550px;
+    height: 450px;
+  }
+  .lableclass {
+    display: flex;
+    justify-content: center;
+  }
+  .reglable {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+  }
+  .usernameinput {
+    position: relative;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+  }
+  .usernameinputlog {
+    position: relative;
+    left: 160px;
+    width: 260px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  .passinputlogin {
+    position: relative;
+    left: 160px;
+    width: 260px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  .emailinput {
+    border: none;
+    position: relative;
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .passwordclass {
+    border: none;
+    position: relative;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+
+    border-radius: 10px;
+  }
+  .regbtnclass {
+    border: none;
+    position: relative;
+    left: 10px;
+    width: 280px;
+    height: 30px;
+    top: 30px;
+    border-radius: 10px;
+  }
+  .textclass {
+    position: relative;
+    left: 240px;
+
+    top: 60px;
+  }
+  .phoneint {
+    border: none;
+    position: relative;
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .conpass {
+    border: none;
+    position: relative;
+    top: 3px;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .dateint {
+    border: none;
+    position: relative;
+
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 28px;
+    border-radius: 10px;
+  }
+  .txtone {
+    position: relative;
+    left: 60px;
+    font-size: 20px;
+  }
+  .genclass {
+    position: relative;
+    left: 140px;
+    bottom: 40px;
+  }
+  .rtbtn {
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+  }
+  ::placeholder {
+    color: #6da03a;
+  }
+  .steiicon {
+    transition: all 0.5s ease-in-out;
+    z-index: 2;
+  }
+  .animation {
+    transform: rotate(60deg);
+  }
+  .box1 {
+    position: relative;
+
+    width: 300px;
+    top: 0px;
+    height: 0%;
+    border-radius: 20px;
+    bottom: 30px;
+    z-index: 0;
+    transition: all 1s ease-in-out;
+  }
+  .box2 {
+    height: 240px;
+  }
+  .btngen {
+    display: none;
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    border: none;
+    transition: all 2s ease-in-out;
+  }
+
+  .display {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background: #fff;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-radius: 5px;
+  }
+  .geninput {
+    display: none;
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+    color: #fff;
+    border-top-left-radius: 20px;
+  }
+  .copybtn {
+    display: none;
+    width: 30px;
+    height: 20px;
+    margin-right: 20px;
+  }
+  .robox {
+    margin-left: 50px;
+  }
+  .btnreg {
+    position: absolute;
+    border: none;
+    width: 100px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    left: 800px;
+    height: 100px;
+    top: 300px;
+  }
+
+  .regicon {
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  .twofbox input {
+    margin: 1px;
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  .twofbox {
+    margin-left: 620px;
+    margin-top: 300px;
+  }
+  .btnotpsand {
+    position: relative;
+    left: 950px;
+    border-radius: 10px;
+    height: 60px;
+    bottom: 50px;
+  }
+  .btnotpsub {
+    position: relative;
+    width: 200px;
+    height: 50px;
+    left: 600px;
+    top: 10px;
+    border-radius: 10px;
+  }
+  .otptitle {
+    position: absolute;
+    left: 680px;
+    font-size: 50px;
+    top: 50px;
+    color: #ffffff;
+  }
+}
+@media (max-width: 1300px) {
+  body {
+    background-color: #6da03a;
+  }
+  .btntwotwo {
+    width: 250px;
+    height: 100px;
+    background-color: #ffffff;
+  }
+
+  .ddimg {
+    display: none;
+    position: absolute;
+    top: 80px;
+  }
+
+  .stronepass {
+    position: absolute;
+    width: 250px;
+    top: 20px;
+    background-color: #ffffff;
+    height: 50px;
+    left: 0px;
+    border-radius: 20px;
+  }
+  .formclass {
+    position: absolute;
+    border-radius: 20px;
+    margin-top: 10px;
+    left: -490px;
+    background-color: #ffffff;
+    color: #6da03a;
+    width: 550px;
+    height: 650px;
+  }
+  .formclass1 {
+    position: absolute;
+    border-radius: 20px;
+    margin-top: 10px;
+    left: -490px;
+    background-color: #ffffff;
+    color: #6da03a;
+    width: 550px;
+    height: 650px;
+  }
+  .lableclass {
+    display: flex;
+    justify-content: center;
+  }
+  .reglable {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+  }
+  .usernameinput {
+    position: relative;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+  }
+  .emailinput {
+    border: none;
+    position: relative;
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .passwordclass {
+    border: none;
+    position: relative;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+
+    border-radius: 10px;
+  }
+  .regbtnclass {
+    border: none;
+    position: relative;
+    left: 10px;
+    width: 280px;
+    height: 30px;
+    top: 30px;
+    border-radius: 10px;
+  }
+  .textclass {
+    position: relative;
+    left: 240px;
+
+    top: 60px;
+  }
+  .phoneint {
+    border: none;
+    position: relative;
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .conpass {
+    border: none;
+    position: relative;
+    top: 3px;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .dateint {
+    border: none;
+    position: relative;
+
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 28px;
+    border-radius: 10px;
+  }
+  .txtone {
+    position: relative;
+    left: 60px;
+    font-size: 20px;
+  }
+  .genclass {
+    position: relative;
+    left: 140px;
+    bottom: 40px;
+  }
+  .rtbtn {
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+  }
+  ::placeholder {
+    color: #6da03a;
+  }
+  .steiicon {
+    transition: all 0.5s ease-in-out;
+    z-index: 2;
+  }
+  .animation {
+    transform: rotate(60deg);
+  }
+  .box1 {
+    position: relative;
+    width: 250px;
+    top: 0px;
+    height: 0%;
+    border-radius: 20px;
+    bottom: 30px;
+    z-index: 0;
+    transition: all 1s ease-in-out;
+  }
+  .box2 {
+    height: 240px;
+  }
+  .btngen {
+    display: none;
+    height: 40px;
+    width: 250px;
+    border-radius: 20px;
+    border: none;
+    transition: all 2s ease-in-out;
+  }
+
+  .display {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background: #fff;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-radius: 5px;
+  }
+  .geninput {
+    display: none;
+    border: 0;
+    outline: 0;
+    font-size: 20px;
+    color: #fff;
+    border-top-left-radius: 20px;
+  }
+  .copybtn {
+    display: none;
+    width: 30px;
+    height: 20px;
+    margin-right: 20px;
+  }
+  .robox {
+    margin-left: 50px;
+  }
+  .mainrl {
+    position: absolute;
+    left: -450px;
+    bottom: 600px;
+  }
+  .twofbox input {
+    background-color: #ffffff;
+    margin: 1px;
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  .twofbox {
+    margin-left: 500px;
+    margin-top: 300px;
+  }
+
+  .btnotpsand {
+    position: relative;
+    left: 820px;
+    border-radius: 10px;
+    height: 60px;
+    bottom: 50px;
+  }
+  .btnotpsub {
+    position: relative;
+    width: 200px;
+    height: 50px;
+    left: 500px;
+    top: 10px;
+    border-radius: 10px;
+  }
+  .otptitle {
+    position: absolute;
+    left: 570px;
+    font-size: 50px;
+    top: 50px;
+    color: #ffffff;
+  }
+}
+@media (max-width: 750px) {
+  body {
+    background-color: #6da03a;
+  }
+
+  .ddimg {
+    display: none;
+    position: absolute;
+    top: 80px;
+  }
+
+  .stronepass {
+    position: absolute;
+    width: 300px;
+    top: 20px;
+    left: 20px;
+    background-color: #ffffff;
+    height: 50px;
+    border-radius: 20px;
+  }
+  .formclass {
+    position: absolute;
+    border-radius: 20px;
+    margin-left: 480px;
+    margin-top: 250px;
+    background-color: #ffffff;
+    color: #6da03a;
+    width: 500px;
+    height: 600px;
+  }
+  .formclass1 {
+    position: absolute;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-top: 250px;
+    background-color: #ffffff;
+    color: #6da03a;
+    width: 350px;
+    height: 250px;
+  }
+  .lableclass {
+    display: flex;
+    justify-content: center;
+  }
+  .reglable {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+  }
+  .usernameinput {
+    position: relative;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+  }
+  .emailinput {
+    border: none;
+    position: relative;
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .passwordclass {
+    border: none;
+    position: relative;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+
+    border-radius: 10px;
+  }
+  .regbtnclass {
+    border: none;
+    position: relative;
+    left: 10px;
+    width: 280px;
+    height: 30px;
+    top: 30px;
+    border-radius: 10px;
+  }
+  .textclass {
+    position: relative;
+    left: 240px;
+
+    top: 60px;
+  }
+  .phoneint {
+    border: none;
+    position: relative;
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .conpass {
+    border: none;
+    position: relative;
+    top: 3px;
+    left: 50px;
+    width: 200px;
+    height: 30px;
+    bottom: 32px;
+    border-radius: 10px;
+  }
+  .dateint {
+    border: none;
+    position: relative;
+
+    left: 300px;
+    width: 200px;
+    height: 30px;
+    bottom: 28px;
+    border-radius: 10px;
+  }
+  .txtone {
+    position: relative;
+    left: 60px;
+    font-size: 20px;
+  }
+  .genclass {
+    position: relative;
+    left: 140px;
+    bottom: 40px;
+  }
+  .rtbtn {
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+  }
+  ::placeholder {
+    color: #6da03a;
+  }
+  .steiicon {
+    transition: all 0.5s ease-in-out;
+    z-index: 2;
+  }
+  .animation {
+    transform: rotate(60deg);
+  }
+  .box1 {
+    position: relative;
+
+    width: 300px;
+    height: 0%;
+    border-radius: 20px;
+
+    z-index: 0;
+    transition: all 1s ease-in-out;
+  }
+  .box2 {
+    width: 300px;
+    height: 200px;
+  }
+  .btngen {
+    display: none;
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    border: none;
+    transition: all 2s ease-in-out;
+  }
+
+  .display {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background: #fff;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-radius: 5px;
+  }
+  .geninput {
+    display: none;
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+    color: #fff;
+    border-top-left-radius: 20px;
+  }
+  .copybtn {
+    display: none;
+    width: 30px;
+    height: 20px;
+    margin-right: 20px;
+  }
+  .robox {
+    margin-left: 50px;
+  }
+  .btnreg {
+    position: absolute;
+    border: none;
+    width: 100px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    left: 800px;
+    height: 100px;
+    top: 100px;
+  }
+  .usernameinputlog {
+    position: relative;
+    left: 60px;
+    width: 260px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  .passinputlogin {
+    position: relative;
+    left: 60px;
+    width: 260px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  .logbtnone {
+    position: relative;
+    bottom: 30px;
+  }
+  .twofbox input {
+    background-color: #ffffff;
+    margin: 1px;
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  .twofbox {
+    margin-left: 50px;
+    margin-top: 300px;
+  }
+
+  .btnotpsand {
+    position: relative;
+    left: 370px;
+    border-radius: 10px;
+    height: 60px;
+    bottom: 50px;
+  }
+  .btnotpsub {
+    position: relative;
+    width: 200px;
+    height: 50px;
+    left: 60px;
+    top: 10px;
+    border-radius: 10px;
+  }
+  .otptitle {
+    position: absolute;
+    left: 570px;
+    font-size: 50px;
+    top: 50px;
+    color: #ffffff;
+  }
+}
